@@ -1,5 +1,7 @@
 # Budget Transparency Explorer (SDG 16: Strong Institutions)
 
+[![tests](https://github.com/Bak-AbasiUdoessien/sdg-budget-transparency-explorer/actions/workflows/tests.yml/badge.svg)](https://github.com/Bak-AbasiUdoessien/sdg-budget-transparency-explorer/actions/workflows/tests.yml)
+
 A budget only helps people if the money is **released** and then **spent**. This project loads state budget data into SQLite and uses SQL to ask the questions that budget-tracking groups such as BudgIT ask:
 
 | # | Question | SQL techniques |
